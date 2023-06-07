@@ -23,7 +23,8 @@ Plataform: Unity
 
 * Unity files : https://drive.google.com/file/d/1kPMjXJS--bNrIZ3qnXuL-sBR007YlvZG/view?usp=sharing
 * Apk : https://drive.google.com/file/d/1PKT2d5JGSuTFSa1kZq0UxPHpi5XGwFDg/view?usp=sharing
-* Demo video : https://drive.google.com/file/d/1k8w3vwe2Q1d4vkvH2WGppCLpNtGKNey5/view?usp=sharing
+* Demo video museum p1 : https://drive.google.com/file/d/1k8w3vwe2Q1d4vkvH2WGppCLpNtGKNey5/view?usp=sharing
+* Demo video museum p2 : https://drive.google.com/file/d/1gEFQHDjtoTK0CwCizTDyZSjh2h2G7yYC/view?usp=sharing
 
 # Important information
 
