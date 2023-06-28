@@ -25,6 +25,10 @@ Plataform: Unity
 * Apk : https://drive.google.com/file/d/1PKT2d5JGSuTFSa1kZq0UxPHpi5XGwFDg/view?usp=sharing
 * Demo video museum p1 : https://drive.google.com/file/d/1k8w3vwe2Q1d4vkvH2WGppCLpNtGKNey5/view?usp=sharing
 * Demo video museum p2 : https://drive.google.com/file/d/1gEFQHDjtoTK0CwCizTDyZSjh2h2G7yYC/view?usp=sharing
+* Demo apk install : 
+* Installation of APK on Oculus Quest 2 : https://www.youtube.com/watch?v=LyfQDAtJFDY&ab_channel=VRStrim-RealidadVirtual 
+
+Password: 1234
 
 # Important information
 
